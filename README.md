@@ -135,35 +135,35 @@ git configuration
 
 1. There are six Headings. Headings are identify with (#) symbol
 
-- # This is Heading one
-- ## This is Heading Two
-- ### This is Heading Three
-- #### This is Heading Four
-- ##### This is Heading Five
-- ###### This is Heading Six
+ # This is Heading one
+ ## This is Heading Two
+ ### This is Heading Three
+ #### This is Heading Four
+ ##### This is Heading Five
+ ###### This is Heading Six
 
 2. Italic Style (2 ways)
-- _This is italic text_
-- *This is also italic text*  
+ _This is italic text_
+ *This is also italic text*  
 
 3. Bold Style (2 ways)
-- __This is italic text__
-- **This is also italic text**
+ __This is italic text__
+ **This is also italic text**
 
 4. Bold & Italic combined Style (2 ways)
-- **_This is bold and italic combined text_**
-- ***This is bold and italic combined text***
+ **_This is bold and italic combined text_**
+ ***This is bold and italic combined text***
 
 5. Stirkethrough syntax :
-- ~~This is example of strikethrough~~
+ ~~This is example of strikethrough~~
 
 6. Single line code block syntax : 
 
-- `This is a single line code block example` (``)
+ `This is a single line code block example` (``)
 
 7. Multiple line code block syntax : 
 
-- ``` This is example 
+ ``` This is example 
       of multipel line
       code block
   ```
