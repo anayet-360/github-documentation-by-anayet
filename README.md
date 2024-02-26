@@ -265,7 +265,8 @@ This is another paragraph text
 ###  Connecting local repo to remote repo]
 
 - check remote connection: `git remote` or `git remote -v`
-- `git remote add name <REMOTE_URL>` example: git remote add origin http://...
+- `git remote add name <REMOTE_URL>` `example: git remote add origin http://...`
+-    `git remote remove command: git remote revmove origin`
 - to clone a remote repository: `git clone <REMOTE_URL>`
 
 <br>
