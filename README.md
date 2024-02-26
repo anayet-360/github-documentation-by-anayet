@@ -116,6 +116,7 @@ git configuration
 - `git show commit-id`
 - `git checkout commit-id`
 - `git checkout master`
+- `git reflog` //show all of commit_id
 
 <br/>
 
