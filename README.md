@@ -290,6 +290,7 @@ This is another paragraph text
 - move to a branch `git checkout branch_name`
 - create and move to a branch `git checkout -b branch_name`
 - delete a branch: `git branch -d branch_name`
+- modify a  branch_name: `git branch -m current branch_name update_branch_name`
 - merge branches:
   ```
     git checkout branchName
