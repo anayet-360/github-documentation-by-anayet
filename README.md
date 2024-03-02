@@ -301,3 +301,17 @@ This is another paragraph text
 
 <br>
 
+## Git Stash 
+
+Why we use git stash
+
+> Because when we work on our repository, suddenly we need to go another branch or repository immediately and we have uncomplete our now working task and you don't want to commit this half works. so for that a great solution comes with git stash command. save your file git stash memory and  doing your urgent work. again come and works with your uncompleted work without any hestation or tention. it's cool.
+
+- `git stash` save file by default (only modify file applicable)
+- `git stash save file_name ` save stash file with name
+- `git stash list` check all stash list
+- `git stash pop` remove last item of stash list
+- `git stash pop stash@{n}` remove `n` number your stash file. (remember this command only apply on git bash command)
+- `git stash drop` git stash last item remove permanetly
+- `git stash clear` clear the stash list
+   
